@@ -24,10 +24,11 @@ p {
   color: Gray;
 }
 
-.copyright {
+footer {
   text-align: right;
+  display: block;
 }
 
-h1, .download, h2, p, .copyright {
+h1, .download, h2, p, footer {
   font-family: Verdana;
 }
